@@ -1,5 +1,5 @@
 # Voice-Assistant
-Building our own voice assistant
+Build your own voice assistant and have fun. You can include any other command so that it gives you more options. 
 
 # Require modules: 
 
