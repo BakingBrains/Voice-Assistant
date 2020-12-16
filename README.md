@@ -1,7 +1,7 @@
 # Voice-Assistant
 Build your own voice assistant and have fun. You can include any other command so that it gives you more options. 
 
-# Require modules: 
+# Require Libraries: 
 
 pip install PyAudio
 
