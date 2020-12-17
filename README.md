@@ -3,6 +3,8 @@ Build your own voice assistant and have fun. You can include any other command s
 
 # Require Libraries: 
 
+Download Build tools: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
 pip install PyAudio
 
 pip install speech_recognition
